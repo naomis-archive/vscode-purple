@@ -1,0 +1,37 @@
+{
+  "name": "vscode-purple",
+  "version": "1.0.0",
+  "description": "Everything is purple!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nhcarrigan/vscode-purple-dos.git"
+  },
+  "author": "Nicholas Carrigan",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/nhcarrigan/vscode-purple-dos/issues"
+  },
+  "homepage": "https://github.com/nhcarrigan/vscode-purple-dos#readme",
+  "dependencies": {
+    "generator-code": "^1.2.22",
+    "vsce": "^1.79.4",
+    "yo": "^3.1.1"
+  },
+  "publisher": "nhcarrigan",
+  "displayName": "vscode-purple-dos",
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "purple-dos",
+        "uiTheme": "vs-dark",
+        "path": "./themes/purple-dos-color-theme.json"
+      }
+    ]
+  },
+  "engines": {
+    "vscode": "^1.48.0"
+  }
+}
