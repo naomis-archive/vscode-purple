@@ -4,8 +4,7 @@ A custom theme for VSCode where everything is purple.
 
 ## Live Version
 
-This page is not yet deployed.
-<!--This page is currently deployed. [View the live website.]()-->
+This theme is available on the [VSCode Marketplace.](https://marketplace.visualstudio.com/items?itemName=nhcarrigan.vscode-purple)-->
 
 ## Feedback, Bugs, and Contributions
 
